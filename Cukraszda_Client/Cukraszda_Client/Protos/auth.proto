@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option csharp_namespace = "Cukraszda_Server.Protos";
+
+service AuthService {
+    rpc Authenticate(AuthRequest) returns (AuthResponse);
+}
+
+message AuthRequest {
+    string username = 1;
+    string password = 2;
+}
+
+message AuthResponse {
+    bool success = 1;
+    string token = 2;
+}

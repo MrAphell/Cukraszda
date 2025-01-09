@@ -1,0 +1,2 @@
+obj\Release\net8.0\Protos/Ar.cs \
+obj\Release\net8.0\Protos/ArGrpc.cs: Protos/ar.proto

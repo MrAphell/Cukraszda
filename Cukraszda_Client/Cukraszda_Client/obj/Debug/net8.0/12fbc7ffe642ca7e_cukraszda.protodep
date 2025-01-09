@@ -1,0 +1,3 @@
+obj\Debug\net8.0\Protos/Cukraszda.cs \
+obj\Debug\net8.0\Protos/CukraszdaGrpc.cs: C:/Users/polon/.nuget/packages/grpc.tools/2.68.1/build/native/include/google/protobuf/empty.proto\
+ Protos/cukraszda.proto

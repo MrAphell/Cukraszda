@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Codes\\Visual Studio\\SOP\\Cukraszda_Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDC122A-62E6-4061-AE8D-128EA679F5D9}|Cukraszda_Server\\Cukraszda_Server.csproj|e:\\codes\\visual studio\\sop\\cukraszda_server\\cukraszda_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDC122A-62E6-4061-AE8D-128EA679F5D9}|Cukraszda_Server\\Cukraszda_Server.csproj|solutionrelative:cukraszda_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDC122A-62E6-4061-AE8D-128EA679F5D9}|Cukraszda_Server\\Cukraszda_Server.csproj|e:\\codes\\visual studio\\sop\\cukraszda_server\\cukraszda_server\\cukraszda_server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CDDC122A-62E6-4061-AE8D-128EA679F5D9}|Cukraszda_Server\\Cukraszda_Server.csproj|solutionrelative:cukraszda_server\\cukraszda_server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDC122A-62E6-4061-AE8D-128EA679F5D9}|Cukraszda_Server\\Cukraszda_Server.csproj|e:\\codes\\visual studio\\sop\\cukraszda_server\\cukraszda_server\\protos\\cukraszda.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{CDDC122A-62E6-4061-AE8D-128EA679F5D9}|Cukraszda_Server\\Cukraszda_Server.csproj|solutionrelative:cukraszda_server\\protos\\cukraszda.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDC122A-62E6-4061-AE8D-128EA679F5D9}|Cukraszda_Server\\Cukraszda_Server.csproj|e:\\codes\\visual studio\\sop\\cukraszda_server\\cukraszda_server\\services\\cukraszdaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDC122A-62E6-4061-AE8D-128EA679F5D9}|Cukraszda_Server\\Cukraszda_Server.csproj|solutionrelative:cukraszda_server\\services\\cukraszdaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDC122A-62E6-4061-AE8D-128EA679F5D9}|Cukraszda_Server\\Cukraszda_Server.csproj|e:\\codes\\visual studio\\sop\\cukraszda_server\\cukraszda_server\\services\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDC122A-62E6-4061-AE8D-128EA679F5D9}|Cukraszda_Server\\Cukraszda_Server.csproj|solutionrelative:cukraszda_server\\services\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDC122A-62E6-4061-AE8D-128EA679F5D9}|Cukraszda_Server\\Cukraszda_Server.csproj|e:\\codes\\visual studio\\sop\\cukraszda_server\\cukraszda_server\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDC122A-62E6-4061-AE8D-128EA679F5D9}|Cukraszda_Server\\Cukraszda_Server.csproj|solutionrelative:cukraszda_server\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDC122A-62E6-4061-AE8D-128EA679F5D9}|Cukraszda_Server\\Cukraszda_Server.csproj|e:\\codes\\visual studio\\sop\\cukraszda_server\\cukraszda_server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CDDC122A-62E6-4061-AE8D-128EA679F5D9}|Cukraszda_Server\\Cukraszda_Server.csproj|solutionrelative:cukraszda_server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDC122A-62E6-4061-AE8D-128EA679F5D9}|Cukraszda_Server\\Cukraszda_Server.csproj|e:\\codes\\visual studio\\sop\\cukraszda_server\\cukraszda_server\\protos\\auth.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{CDDC122A-62E6-4061-AE8D-128EA679F5D9}|Cukraszda_Server\\Cukraszda_Server.csproj|solutionrelative:cukraszda_server\\protos\\auth.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cukraszda_Server",
+              "DocumentMoniker": "E:\\Codes\\Visual Studio\\SOP\\Cukraszda_Server\\Cukraszda_Server\\Cukraszda_Server.csproj",
+              "RelativeDocumentMoniker": "Cukraszda_Server\\Cukraszda_Server.csproj",
+              "ToolTip": "E:\\Codes\\Visual Studio\\SOP\\Cukraszda_Server\\Cukraszda_Server\\Cukraszda_Server.csproj",
+              "RelativeToolTip": "Cukraszda_Server\\Cukraszda_Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-09T14:43:11.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cukraszda.proto",
+              "DocumentMoniker": "E:\\Codes\\Visual Studio\\SOP\\Cukraszda_Server\\Cukraszda_Server\\Protos\\cukraszda.proto",
+              "RelativeDocumentMoniker": "Cukraszda_Server\\Protos\\cukraszda.proto",
+              "ToolTip": "E:\\Codes\\Visual Studio\\SOP\\Cukraszda_Server\\Cukraszda_Server\\Protos\\cukraszda.proto",
+              "RelativeToolTip": "Cukraszda_Server\\Protos\\cukraszda.proto",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-12-28T13:34:12.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "auth.proto",
+              "DocumentMoniker": "E:\\Codes\\Visual Studio\\SOP\\Cukraszda_Server\\Cukraszda_Server\\Protos\\auth.proto",
+              "RelativeDocumentMoniker": "Cukraszda_Server\\Protos\\auth.proto",
+              "ToolTip": "E:\\Codes\\Visual Studio\\SOP\\Cukraszda_Server\\Cukraszda_Server\\Protos\\auth.proto",
+              "RelativeToolTip": "Cukraszda_Server\\Protos\\auth.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-12-28T13:32:39.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Codes\\Visual Studio\\SOP\\Cukraszda_Server\\Cukraszda_Server\\appsettings.json",
+              "RelativeDocumentMoniker": "Cukraszda_Server\\appsettings.json",
+              "ToolTip": "E:\\Codes\\Visual Studio\\SOP\\Cukraszda_Server\\Cukraszda_Server\\appsettings.json",
+              "RelativeToolTip": "Cukraszda_Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-28T12:32:33.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "E:\\Codes\\Visual Studio\\SOP\\Cukraszda_Server\\Cukraszda_Server\\Services\\DataService.cs",
+              "RelativeDocumentMoniker": "Cukraszda_Server\\Services\\DataService.cs",
+              "ToolTip": "E:\\Codes\\Visual Studio\\SOP\\Cukraszda_Server\\Cukraszda_Server\\Services\\DataService.cs",
+              "RelativeToolTip": "Cukraszda_Server\\Services\\DataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T12:14:17.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "E:\\Codes\\Visual Studio\\SOP\\Cukraszda_Server\\Cukraszda_Server\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Cukraszda_Server\\Services\\AuthService.cs",
+              "ToolTip": "E:\\Codes\\Visual Studio\\SOP\\Cukraszda_Server\\Cukraszda_Server\\Services\\AuthService.cs",
+              "RelativeToolTip": "Cukraszda_Server\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T12:00:44.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CukraszdaService.cs",
+              "DocumentMoniker": "E:\\Codes\\Visual Studio\\SOP\\Cukraszda_Server\\Cukraszda_Server\\Services\\CukraszdaService.cs",
+              "RelativeDocumentMoniker": "Cukraszda_Server\\Services\\CukraszdaService.cs",
+              "ToolTip": "E:\\Codes\\Visual Studio\\SOP\\Cukraszda_Server\\Cukraszda_Server\\Services\\CukraszdaService.cs",
+              "RelativeToolTip": "Cukraszda_Server\\Services\\CukraszdaService.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAIwLEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T11:55:18.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Codes\\Visual Studio\\SOP\\Cukraszda_Server\\Cukraszda_Server\\Program.cs",
+              "RelativeDocumentMoniker": "Cukraszda_Server\\Program.cs",
+              "ToolTip": "E:\\Codes\\Visual Studio\\SOP\\Cukraszda_Server\\Cukraszda_Server\\Program.cs",
+              "RelativeToolTip": "Cukraszda_Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:23:54.611Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Codes\\Visual Studio\\SOP\\Cukraszda_Client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B27E641-F419-471E-BA2B-01DD4B67E1FC}|Cukraszda_Client\\Cukraszda_Client.csproj|e:\\codes\\visual studio\\sop\\cukraszda_client\\cukraszda_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B27E641-F419-471E-BA2B-01DD4B67E1FC}|Cukraszda_Client\\Cukraszda_Client.csproj|solutionrelative:cukraszda_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B27E641-F419-471E-BA2B-01DD4B67E1FC}|Cukraszda_Client\\Cukraszda_Client.csproj|e:\\codes\\visual studio\\sop\\cukraszda_client\\cukraszda_client\\cukraszda_client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9B27E641-F419-471E-BA2B-01DD4B67E1FC}|Cukraszda_Client\\Cukraszda_Client.csproj|solutionrelative:cukraszda_client\\cukraszda_client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cukraszda_Client.csproj",
+              "DocumentMoniker": "E:\\Codes\\Visual Studio\\SOP\\Cukraszda_Client\\Cukraszda_Client\\Cukraszda_Client.csproj",
+              "RelativeDocumentMoniker": "Cukraszda_Client\\Cukraszda_Client.csproj",
+              "ToolTip": "E:\\Codes\\Visual Studio\\SOP\\Cukraszda_Client\\Cukraszda_Client\\Cukraszda_Client.csproj",
+              "RelativeToolTip": "Cukraszda_Client\\Cukraszda_Client.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-09T14:39:52.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Codes\\Visual Studio\\SOP\\Cukraszda_Client\\Cukraszda_Client\\Program.cs",
+              "RelativeDocumentMoniker": "Cukraszda_Client\\Program.cs",
+              "ToolTip": "E:\\Codes\\Visual Studio\\SOP\\Cukraszda_Client\\Cukraszda_Client\\Program.cs*",
+              "RelativeToolTip": "Cukraszda_Client\\Program.cs*",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAYwHEAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:18:28.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

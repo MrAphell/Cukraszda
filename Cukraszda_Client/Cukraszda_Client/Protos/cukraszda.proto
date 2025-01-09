@@ -1,0 +1,67 @@
+syntax = "proto3";
+
+option csharp_namespace = "Cukraszda_Server.Protos";
+
+import "google/protobuf/empty.proto";
+
+service CukraszdaService {
+    rpc GetDijazottTortak (google.protobuf.Empty) returns (SutemenyLista);
+    rpc GetAtlagArTipusonkent (AtlagArRequest) returns (AtlagArLista);
+    rpc GetLaktozmentesPitekEsTortaszeletek (LaktozmentesRequest) returns (SutemenyLista);
+
+    rpc CreateSutemeny (SutemenyData) returns (SutemenyResponse);
+    rpc UpdateSutemeny (SutemenyData) returns (SutemenyResponse);
+    rpc DeleteSutemeny (SutemenyIdRequest) returns (google.protobuf.Empty);
+    rpc GetSutemenyById (SutemenyIdRequest) returns (SutemenyData);
+}
+
+message SutemenyData {
+    int32 id = 1;
+    string nev = 2;
+    string tipus = 3;
+    bool dijazott = 4;
+    repeated ArData arak = 5;
+    repeated TartalomData tartalmak = 6;
+}
+
+message ArData {
+    int32 id = 1;
+    double ertek = 2;
+    string egyseg = 3;
+}
+
+message TartalomData {
+    int32 id = 1;
+    string mentes = 2;
+}
+
+message SutemenyLista {
+    repeated SutemenyData sutemenyek = 1;
+}
+
+message AtlagArRequest {
+    string mertekegyseg = 1;
+}
+
+message AtlagAr {
+    string tipus = 1;
+    double atlagAr = 2;
+}
+
+message AtlagArLista {
+    repeated AtlagAr atlagArak = 1;
+}
+
+message LaktozmentesRequest {
+    repeated string tipusok = 1;
+    string mentes = 2;
+}
+
+message SutemenyIdRequest {
+    int32 id = 1;
+}
+
+message SutemenyResponse {
+    string message = 1;
+    int32 sutemeny_id = 2;
+}

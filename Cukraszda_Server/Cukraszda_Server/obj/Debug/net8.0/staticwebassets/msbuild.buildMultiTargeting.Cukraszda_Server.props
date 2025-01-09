@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Cukraszda_Server.props" />
+</Project>
